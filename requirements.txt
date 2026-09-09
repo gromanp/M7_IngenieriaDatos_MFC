@@ -1,0 +1,11 @@
+Las Librerias usadas en el proyecto se encuentran listadas a continuación:
+
+pandas              #Libreria de manipulación de datos
+numpy               #Libreria de cálculo numérico
+pdfplumber          #Libreria para extraer texto de archivos PDF
+re                  #Libreria para expresiones regulares
+pathlib             #Libreria para manipulación de rutas de archivos
+mysql.connector     #Libreria para conectar con bases de datos MySQL
+datetime            #Libreria para manejo de fechas y horas
+matplotlib.pyplot   #Libreria para visualización de datos
+seaborn             #Libreria para visualización de datos basada en matplotlib
